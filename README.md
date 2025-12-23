@@ -1,10 +1,10 @@
 ## Hi, im Ray 👋
 
-📚 Currently in school, building stuff on the side
-💻 I make fullstack web apps and games  
-🧠 Mostly learning by building (and occasionally breaking things)  
-🎮 Exploring interactive design, systems, and cool mechanics  
-🌱 I’ll throw my projects here in the future
+📚 Currently in school, building stuff on the side<br/>
+💻 I make fullstack web apps and games<br/> 
+🧠 Mostly learning by building (and occasionally breaking things)<br/> 
+🎮 Exploring interactive design, systems, and cool mechanics<br/>  
+🌱 I’ll throw my projects here in the future<br/>
 
 
 # 💻 Tech Stack:
