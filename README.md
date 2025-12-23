@@ -4,7 +4,7 @@
 💻 I make fullstack web apps and games<br/> 
 🧠 Mostly learning by building (and occasionally breaking things)<br/> 
 🎮 Exploring interactive design, systems, and cool mechanics<br/>  
-🌱 I’ll throw my projects here in the future<br/>
+🌱 I’ll throw my projects here in the future
 
 
 # 💻 Tech Stack:
